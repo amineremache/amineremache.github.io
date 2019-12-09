@@ -1,7 +1,20 @@
 ### Bio
 ***
+Currently, a Computer Vision Master student at Université de Paris, 
+and also a graduate computer systems engineer from Ecole nationale Supérieure d'Informatique (ESI) 2019. 
+My graduation project was to use reinforcement learning in the optimization of a metaheuristic called 
+Bee Swarm Optimization (BSO) for the feature selection problem. This work led to a publication 
+in the International Work-Conference on Artificial Neural Networks (IWANN) 2019.
 
-TO FILL LATER
+I like participating in extracurricular activities and international events, such as hackathons, 
+and I've been to three international hackathons: Hajj Hackathon (Saudi Arabia), Hack The North (Canada) 
+and OxfordHack (UK). In 2019, I was a Summer Student at CERN (The European Organization for Nuclear Research), 
+and it was a life-changing experience for me. I believe that it's important to take part of such adventures, 
+it helps you develop your collaboration and problem-solving skills, but most importantly, 
+get a bigger picture of what's happening all over the world.
+
+I have also a personal blog (medium/@amineremache), where I try to share my knowledge 
+and express my thoughts during my free time.
 
 ### Expériences
 ***
