@@ -1,7 +1,10 @@
 ### Bio
 ***
-Currently, a Computer Vision Master student at Université de Paris, 
-and also a graduate computer systems engineer from Ecole nationale Supérieure d'Informatique (ESI) 2019. 
+Currently, a 3D Deep Learning R&D engineer at Samp, a deep-tech startup 
+that helps large industrial facilities successfully go through constant modernization required 
+to meet the fundamental challenges of safety and sustainability, as an intern 
+for my Computer Vision Master at Université de Paris. I am also a graduate computer systems engineer 
+from Ecole nationale Supérieure d'Informatique (ESI) 2019.  
 My graduation project was to use reinforcement learning in the optimization of a metaheuristic called 
 Bee Swarm Optimization (BSO) for the feature selection problem. This work led to a publication 
 in the International Work-Conference on Artificial Neural Networks (IWANN) 2019.
@@ -18,6 +21,7 @@ and express my thoughts during my free time.
 
 ### Expériences
 ***
+ - [March 2020 : Now ] - **3D Deep learning R&D Engineer**. _SAMP_.
  - [July 2019 : August 2019 ] - **Summer Student & Intern : Migration of EOS SLS & availability probing system**. _European Organization for Nuclear Research (CERN)_.
  - [September 2018 : June 2019]  - **Research intern : Feature selection for supervised classification using the BSO metaheuristic with reinforcement learning**. _Ecole nationale Supérieure d'Informatique (ESI)_.
  - [July 2015 : July 2018]  - **Part-time Junior developer**. _ELCS Research_ (Startup).   
